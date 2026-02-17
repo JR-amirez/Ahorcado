@@ -1,0 +1,13 @@
+{
+  "nombreApp": "STEAM-G",
+  "version": "1.0",
+  "fecha": "2026-02-16",
+  "descripcion": "Juego para el desarrollo de habilidades matemáticas",
+  "plataformas": ["android"],
+  "nivel": "basico",
+  "palabras": [
+    { "word": "CELULA", "clue": "Unidad básica de la vida" },
+    { "word": "FOTOSINTESIS", "clue": "Proceso por el cual las plantas producen su alimento" },
+    { "word": "ECOSISTEMA", "clue": "Conjunto de seres vivos y su entorno" }
+  ]
+}
