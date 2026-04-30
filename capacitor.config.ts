@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'AhorcadoMv',
+  appId: 'io.ahorcado.steam',
+  appName: 'Ahorcado',
   webDir: 'dist'
 };
 
