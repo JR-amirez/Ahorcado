@@ -52,8 +52,8 @@ const Ahorcado: React.FC<AhorcadoProps> = ({
 }) => {
   const configuracionNiveles = {
     basico: { numeroPalabras: 3, puntosPorPalabra: 10, tiempoPorPalabra: 180 },
-    intermedio: { numeroPalabras: 4, puntosPorPalabra: 15, tiempoPorPalabra: 300 },
-    avanzado: { numeroPalabras: 5, puntosPorPalabra: 20, tiempoPorPalabra: 600 },
+    intermedio: { numeroPalabras: 4, puntosPorPalabra: 15, tiempoPorPalabra: 240 },
+    avanzado: { numeroPalabras: 5, puntosPorPalabra: 20, tiempoPorPalabra: 300 },
   } as const;
 
   const normalizarNivelConfig = (n: string) =>
